@@ -1,0 +1,11 @@
+Package: lastnext
+Type: Package
+Title: Last-Next NA imputation procedure
+Version: 0.1.0
+Authors@R: 'Roberto Sichera <roberto.sichera@unipa.it> [aut, cre]'
+Description: Imputes NA values in a vector, data.frame or array of arbitrary dimensions through Last-Next procedure. 
+Depends: R (>= 3.3.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
