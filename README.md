@@ -14,6 +14,5 @@ if(!('devtools' %in% installed.packages())) install.packages("devtools")
 
 # Install package lastnext
 library(devtools)
-
 install_github("rhobis/lastnext")
 ```
