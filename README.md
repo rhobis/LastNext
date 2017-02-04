@@ -8,9 +8,12 @@ an object of the same class with imputed data.
 
 To install the package, run the following code in R:
 
+``` r
 # If not present, install package 'devtools'
 if(!('devtools' %in% installed.packages())) install.packages("devtools")
 
 # Install package lastnext
 library(devtools)
+
 install_github("rhobis/lastnext")
+```
